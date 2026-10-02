@@ -1,0 +1,4 @@
+ru.omstu.pin252t_sedikova.test.androidApp-updated_navigation_xml-0 /Users/oleg/Downloads/KotlinProject/androidApp/build/generated/updated_navigation_xml/debugAndroidTest
+ru.omstu.pin252t_sedikova.test.androidApp-packageDebugAndroidTestResources-1 /Users/oleg/Downloads/KotlinProject/androidApp/build/intermediates/incremental/debugAndroidTest/packageDebugAndroidTestResources/merged.dir
+ru.omstu.pin252t_sedikova.test.androidApp-packageDebugAndroidTestResources-2 /Users/oleg/Downloads/KotlinProject/androidApp/build/intermediates/incremental/debugAndroidTest/packageDebugAndroidTestResources/stripped.dir
+ru.omstu.pin252t_sedikova.test.androidApp-debugAndroidTest-3 /Users/oleg/Downloads/KotlinProject/androidApp/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

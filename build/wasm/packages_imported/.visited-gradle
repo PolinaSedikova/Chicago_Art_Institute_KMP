@@ -1,0 +1,185 @@
+{
+  "version": "9",
+  "items": {
+    "cf6c24b3990b521e7bb20ff8f117fac8": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-wasm-js/2.4.20/898b9f47d68f2c9b4734fbc85f7f39663d65021d/kotlin-stdlib-wasm-js-2.4.20.klib"
+    },
+    "6bd2c276f167c67160c7f5d45ceb184f": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.runtime/runtime-wasm-js/1.12.1/869675145b6351d07a3648e40f2f150a75bfe92f/runtime-wasm-js-1.12.1.klib"
+    },
+    "b6bf969decbae6a06a11df4d94e19fae": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/androidx.compose.runtime/runtime-wasm-js/1.12.1/18e093049c01d67c257074149bd1096f2b39872d/runtime-wasm-js-1.12.1.klib"
+    },
+    "4f3e4b9f82d35329a3f7939f4f12c76a": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/androidx.collection/collection-wasm-js/1.5.0/18144cbf664890f9b0dd371eb44e5bdadbf000a7/collection-wasm-js-1.5.0.klib"
+    },
+    "e7b08164ecada67c6bbc881d17cabaf8": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation-wasm-js/1.9.1/c084814826e28c73c203da1a2f36f71662804bd3/annotation-wasm-js-1.9.1.klib"
+    },
+    "e7fe253c9ce0fbcaa7d5d4d840b0faa5": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/androidx.compose.runtime/runtime-annotation-wasm-js/1.12.1/3849f0eaa3f77c4f13ee1f830596a44bf2fd19c7/runtime-annotation-wasm-js-1.12.1.klib"
+    },
+    "863cde0e552676b2ed916f1390cefebe": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/atomicfu-wasm-js/0.28.0/76412d5ae350d316ed99a1250481db61ab270d08/atomicfu-wasm-js-0.28.0.klib"
+    },
+    "234fb7b59288841b187a482e3e5a3bc3": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-browser-wasm-js/0.5.0/4b9c6e6a72df07e2f1d605c9f87c4e5176ddeb93/kotlinx-browser-wasm-js-0.5.0.klib"
+    },
+    "4aa13102a613da1a1f69b605540f74c1": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-wasm-js/1.9.0/139d648a249ae52cf300ebbc21e2bc7f8746b185/kotlinx-coroutines-core-wasm-js-1.9.0.klib"
+    },
+    "24d5aaab9627307627f70eaac2b08f70": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.foundation/foundation-wasm-js/1.12.1/c1788f57c77f04673cd0ef3538f7560ed22446e3/foundation-wasm-js-1.12.1.klib"
+    },
+    "ddf2f2a9b593cc6316b16815ac739833": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.animation/animation-wasm-js/1.12.1/82d597c13df1c5224abd98cd3f82423a19a4cbb5/animation-wasm-js-1.12.1.klib"
+    },
+    "1f090e313006e36a8981a7681db053e0": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.animation/animation-core-wasm-js/1.12.1/6d0fafd66d54bfdf8b6802ce66ce95dcdf88a985/animation-core-wasm-js-1.12.1.klib"
+    },
+    "a349df77f86deb53ef1d45f86955ef79": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.collection-internal/collection-wasm-js/1.10.0/20428c98f45e34bc64d7f85b68e6e1241df8436e/collection-wasm-js-1.10.0.klib"
+    },
+    "718bdb880f2e584cff9b11367699f5ce": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-wasm-js/1.12.1/1dd7ade9d299728ae0fd6ad01eddefae755754b8/ui-wasm-js-1.12.1.klib"
+    },
+    "485e3b3096a7c2635d3d9ffad50c0bac": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/androidx.compose.runtime/runtime-retain-wasm-js/1.12.1/a0dda7850e9de49d9c7a8ceb2bfb83fd4628768c/runtime-retain-wasm-js-1.12.1.klib"
+    },
+    "50a95050c143d4acbd6156b0845a7352": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel-compose-wasm-js/2.11.0/f741ba99055008a29c044655f52ff6e1c6582257/lifecycle-viewmodel-compose-wasm-js-2.11.0.klib"
+    },
+    "948f36306f45a881ed5e5364b033bb4c": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/androidx.compose.runtime/runtime-saveable-wasm-js/1.12.1/1d1e49ecae690268c4f687526773c1f629817de/runtime-saveable-wasm-js-1.12.1.klib"
+    },
+    "66bb41750f3a2f1ff0955c59a24941fa": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-runtime-compose-wasm-js/2.11.0/6c7e47468ffe0b39e90185d0d974e167eedd0d7/lifecycle-runtime-compose-wasm-js-2.11.0.klib"
+    },
+    "5188c709258a638f1dd2bb5e6482f845": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-runtime-wasm-js/2.11.0/422a58b540fa019746919200247590e0e8c71479/lifecycle-runtime-wasm-js-2.11.0.klib"
+    },
+    "c2e52d587af4d227ab095263d4d94f7b": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common-wasm-js/2.11.0/1c9a8869b9079bcbbf69f1e393e2e25f5944f8d5/lifecycle-common-wasm-js-2.11.0.klib"
+    },
+    "bee455c08dcf411e7ceaa72911f3011b": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/androidx.savedstate/savedstate-compose-wasm-js/1.4.0/a613faf31aaf91d5928780a562aca7f7c0366848/savedstate-compose-wasm-js-1.4.0.klib"
+    },
+    "0389bd287f15ed4cf8ece0f686769438": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/androidx.savedstate/savedstate-wasm-js/1.4.0/6865c0523c212a87a34c7df4f8f87596e2fdfcc8/savedstate-wasm-js-1.4.0.klib"
+    },
+    "435e9ef51b2b14ead28ac39aeaee942e": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-serialization-core-wasm-js/1.7.3/1badfeaf1bb965ae884394fced75656e42ed98a1/kotlinx-serialization-core-wasm-js-1.7.3.klib"
+    },
+    "f772b448ed007fbeea2939da88980422": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel-wasm-js/2.11.0/c55954f93ee10d5564d1c0f13eacddc7feb081e3/lifecycle-viewmodel-wasm-js-2.11.0.klib"
+    },
+    "ac08677300c799bacc7d2bc680aa947e": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel-savedstate-wasm-js/2.11.0/fe51d4e90d511afd3863ac734fa04b5521ea8aa3/lifecycle-viewmodel-savedstate-wasm-js-2.11.0.klib"
+    },
+    "aff2f3192885015c32747d174d49ddc7": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.androidx.lifecycle/lifecycle-runtime-compose-wasm-js/2.11.0/f3de59e0926132a6fdda6ce019ff3906f4d8c24d/lifecycle-runtime-compose-wasm-js-2.11.0.klib"
+    },
+    "88d9d14564945d85a1f632359d73e1a5": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.androidx.lifecycle/lifecycle-common-wasm-js/2.11.0/547128458bc2c26153273fcea618a734ced4f39b/lifecycle-common-wasm-js-2.11.0.klib"
+    },
+    "a96bb93bdd103d837a26f3df3b8d4901": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.androidx.lifecycle/lifecycle-runtime-wasm-js/2.11.0/5df33a915999615fc652dbe1f0592d18f3270b60/lifecycle-runtime-wasm-js-2.11.0.klib"
+    },
+    "03c5bedae3caa56023c4d0e6797966a6": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.androidx.lifecycle/lifecycle-viewmodel-wasm-js/2.11.0/1558b7dfca965a6f0eb92680e3a765044d4f076c/lifecycle-viewmodel-wasm-js-2.11.0.klib"
+    },
+    "9a860a4f8086304166c5aa8990d40d02": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.androidx.lifecycle/lifecycle-viewmodel-savedstate-wasm-js/2.11.0/5c4032b40e2ed82d65856dd8f056d83e210a361e/lifecycle-viewmodel-savedstate-wasm-js-2.11.0.klib"
+    },
+    "1eaab65a72ea0598d6a8891a2178cc8c": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.androidx.savedstate/savedstate-wasm-js/1.3.6/e0cb2589ac0819582639d17e6638fd3d8c185419/savedstate-wasm-js-1.3.6.klib"
+    },
+    "1a97a45b31fabf6968ff93ac701b51a1": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.androidx.navigationevent/navigationevent-compose-wasm-js/1.1.0/8675e605cd54d365d3c062bb33057cc6d06b2f7c/navigationevent-compose-wasm-js-1.1.0.klib"
+    },
+    "c82f561706d4925a7f4aa8b4876bce4e": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/androidx.navigationevent/navigationevent-compose-wasm-js/1.1.1/ec10ba51d1b68564d446d31038c916fa2e286aa9/navigationevent-compose-wasm-js-1.1.1.klib"
+    },
+    "477f2f1524e03977767ff1e2a36ccbb5": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/androidx.navigationevent/navigationevent-wasm-js/1.1.1/1ea7b0b21fe569b0b050dee9849804ec84bb26a1/navigationevent-wasm-js-1.1.1.klib"
+    },
+    "d658348ff88fca31d4902ace8e3be2fc": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.annotation-internal/annotation-wasm-js/1.10.0/32f0683bc09170292b5a034f535d9af10c687f17/annotation-wasm-js-1.10.0.klib"
+    },
+    "f0af792e7def178b10491a78880ca7ac": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.runtime/runtime-saveable-wasm-js/1.12.1/7f9a6391ccee72ba77394730498ff83d36d1ca66/runtime-saveable-wasm-js-1.12.1.klib"
+    },
+    "43a8531d1e5ad8eb442508286d948a31": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.androidx.savedstate/savedstate-compose-wasm-js/1.3.6/531312550e888c492c0398ab76a73f925b3701be/savedstate-compose-wasm-js-1.3.6.klib"
+    },
+    "409706d64921e865872cc8206baf8bde": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-backhandler-wasm-js/1.12.1/c34d1cc1c837f20bf447a5b96f3a631565dd37d1/ui-backhandler-wasm-js-1.12.1.klib"
+    },
+    "92adbb17c33e250c8c754b21a73a94b9": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-util-wasm-js/1.12.1/e6da26d2e49293c78e5305607e0bfe57233b1646/ui-util-wasm-js-1.12.1.klib"
+    },
+    "849bb32ea666b5dea79f4fadcd864bec": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-geometry-wasm-js/1.12.1/d5bcebe1e633006ebd286b02342b1a185bc9f71d/ui-geometry-wasm-js-1.12.1.klib"
+    },
+    "3c53663355d9ddfa00ae6d28de14635e": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-graphics-wasm-js/1.12.1/a587fe0822485294cde0e60e3c66afaa1a9333cc/ui-graphics-wasm-js-1.12.1.klib"
+    },
+    "0336945e83d4bb47c5fb5c8d66555794": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-unit-wasm-js/1.12.1/7603b0c0ea2b5e1a94ff6fc7dee0cacfe4d0c52/ui-unit-wasm-js-1.12.1.klib"
+    },
+    "736c7455a3d310880992ab72721339b3": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.skiko/skiko-wasm-js/0.150.1/96d879685fc0cdfc129388571ffbaca5e436b0a7/skiko-wasm-js-0.150.1.klib",
+      "target": "skiko-wasm-js/0.150.1"
+    },
+    "4e1700aefcc17ad7c97227be231f5113": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.skiko/skiko-js-wasm-runtime/0.150.1/a18b9fe90d1cac41b384b303d147bed4fe61a760/skiko-js-wasm-runtime-0.150.1.jar",
+      "target": "skiko-js-wasm-runtime/0.150.1"
+    },
+    "a19050f6c7641719507beb3cdf94b686": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-text-wasm-js/1.12.1/70f0eccdb770981cddf877a8a232524e8a7676a/ui-text-wasm-js-1.12.1.klib"
+    },
+    "db69ea8aed4feb0a0b9665b5937bbca4": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.foundation/foundation-layout-wasm-js/1.12.1/f0a3abade578b5f7801c466e8de5c4ddeb6300f/foundation-layout-wasm-js-1.12.1.klib"
+    },
+    "d128304eba620edfee3ed5f5f99d9310": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.material3/material3-wasm-js/1.12.0-alpha03/ff59f7a2363a8e460e2d50a8b6b596aa42e84c81/material3-wasm-js-1.12.0-alpha03.klib"
+    },
+    "4727a319bb88cc4dd87a1e6e31aa5f76": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/androidx.graphics/graphics-shapes-wasm-js/1.1.0/6c41c05fe9a143478894bcdd4660ed85f50c7144/graphics-shapes-wasm-js-1.1.0.klib"
+    },
+    "3ab8870796f2429b83c4bb36ac1b800d": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.material/material-ripple-wasm-js/1.12.0-beta01/b3114d1097fc9551194de0e4b84f6fbc754d97ef/material-ripple-wasm-js-1.12.0-beta01.klib"
+    },
+    "065392cf12e1187c3f5da05fd99e2332": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-datetime-wasm-js/0.7.1/8e6767e480f8fd07577d695bb0e39df08503e79e/kotlinx-datetime-wasm-js-0.7.1.klib",
+      "target": "Kotlin-DateTime-library-kotlinx-datetime-wasm-js/0.7.1"
+    },
+    "54293b63ec331bc5847fca9aae551227": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.components/components-resources-wasmJs/1.12.1/58d61cdfaf050502e4ed87d5d6c363cb0a1b7a08/library-wasm-js-1.12.1.klib"
+    },
+    "8327cf2564947bb15bbc306a1395456a": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-tooling-preview-wasm-js/1.12.1/726dd679cd18dd79038466e36d64955607cdfc56/ui-tooling-preview-wasm-js-1.12.1.klib"
+    },
+    "70cc60014f59e092ec310a6b791459d5": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.androidx.lifecycle/lifecycle-viewmodel-compose-wasm-js/2.11.0/b6e29d1ef27b235bb050a0cf01fd76467e3a4eff/lifecycle-viewmodel-compose-wasm-js-2.11.0.klib"
+    },
+    "8dfe18bd268d180bedb340333827ddf7": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-wasm-js/2.4.20/203b3b64cb75dcb7d6571150a333660fdae3a64/kotlin-test-wasm-js-2.4.20.klib"
+    },
+    "79ca22d070569908a1a5dab70e4f47f7": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.androidx.lifecycle/lifecycle-runtime-compose-wasm-js/2.9.6/6b22b30a8b55d0f498e78dc604cd814a13483fcc/lifecycle-runtime-compose-wasm-js-2.9.6.klib"
+    },
+    "a35fd515f6b002a3af49351eab89ad2f": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.androidx.lifecycle/lifecycle-common-wasm-js/2.9.6/5d9d99de66ae8a0d6b1ecd1daf9c88627723755a/lifecycle-common-wasm-js-2.9.6.klib"
+    },
+    "bac68e1fced0fdc6dcdfd3bc447005be": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.androidx.lifecycle/lifecycle-runtime-wasm-js/2.9.6/71757c5e7be8c99246fabe7e4c9d7becad254377/lifecycle-runtime-wasm-js-2.9.6.klib"
+    },
+    "253d0f84d6a3c68278d689a262055573": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.androidx.lifecycle/lifecycle-viewmodel-wasm-js/2.9.6/e91d9920cc1b6f9c79a4646033e1df81e5e453fe/lifecycle-viewmodel-wasm-js-2.9.6.klib"
+    },
+    "4249f829bd0b59bbd59365a70a39f353": {
+      "src": "/Users/oleg/.gradle/caches/modules-2/files-2.1/org.jetbrains.androidx.lifecycle/lifecycle-viewmodel-savedstate-wasm-js/2.9.6/bf81e4004eb3404652e9ff5b3fb8518aa6cec571/lifecycle-viewmodel-savedstate-wasm-js-2.9.6.klib"
+    }
+  }
+}

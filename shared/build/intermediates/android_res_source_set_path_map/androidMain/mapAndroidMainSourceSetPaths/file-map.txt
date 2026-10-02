@@ -1,0 +1,4 @@
+ru.omstu.pin252t_sedikova.shared-androidMain-0 /Users/oleg/Downloads/KotlinProject/shared/build/generated/updated_navigation_xml/androidMain/res
+ru.omstu.pin252t_sedikova.shared-packageAndroidMainResources-1 /Users/oleg/Downloads/KotlinProject/shared/build/intermediates/incremental/androidMain/packageAndroidMainResources/merged.dir
+ru.omstu.pin252t_sedikova.shared-packageAndroidMainResources-2 /Users/oleg/Downloads/KotlinProject/shared/build/intermediates/incremental/androidMain/packageAndroidMainResources/stripped.dir
+ru.omstu.pin252t_sedikova.shared-packageAndroidMainResources-3 /Users/oleg/Downloads/KotlinProject/shared/build/intermediates/packaged_res/androidMain/packageAndroidMainResources/res

@@ -1,0 +1,31 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="ru.omstu.pin252t_sedikova.test" >
+4
+5    <uses-sdk
+5-->/Users/oleg/Downloads/KotlinProject/androidApp/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2487699601021157436.xml:5:5-74
+6        android:minSdkVersion="24"
+6-->/Users/oleg/Downloads/KotlinProject/androidApp/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2487699601021157436.xml:5:15-41
+7        android:targetSdkVersion="37" />
+7-->/Users/oleg/Downloads/KotlinProject/androidApp/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2487699601021157436.xml:5:42-71
+8
+9    <instrumentation
+9-->/Users/oleg/Downloads/KotlinProject/androidApp/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2487699601021157436.xml:7:5-11:75
+10        android:name="androidx.test.runner.AndroidJUnitRunner"
+10-->/Users/oleg/Downloads/KotlinProject/androidApp/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2487699601021157436.xml:7:22-76
+11        android:functionalTest="false"
+11-->/Users/oleg/Downloads/KotlinProject/androidApp/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2487699601021157436.xml:10:22-52
+12        android:handleProfiling="false"
+12-->/Users/oleg/Downloads/KotlinProject/androidApp/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2487699601021157436.xml:9:22-53
+13        android:label="Tests for ru.omstu.pin252t_sedikova"
+13-->/Users/oleg/Downloads/KotlinProject/androidApp/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2487699601021157436.xml:11:22-73
+14        android:targetPackage="ru.omstu.pin252t_sedikova" />
+14-->/Users/oleg/Downloads/KotlinProject/androidApp/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2487699601021157436.xml:8:22-71
+15
+16    <application
+16-->INJECTED
+17        android:debuggable="true"
+18        android:extractNativeLibs="false" />
+18-->INJECTED
+19
+20</manifest>

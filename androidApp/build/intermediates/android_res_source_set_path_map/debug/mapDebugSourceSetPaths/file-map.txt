@@ -1,0 +1,7 @@
+ru.omstu.pin252t_sedikova.androidApp-pngs-0 /Users/oleg/Downloads/KotlinProject/androidApp/build/generated/res/pngs/debug
+ru.omstu.pin252t_sedikova.androidApp-updated_navigation_xml-1 /Users/oleg/Downloads/KotlinProject/androidApp/build/generated/updated_navigation_xml/debug
+ru.omstu.pin252t_sedikova.androidApp-packageDebugResources-2 /Users/oleg/Downloads/KotlinProject/androidApp/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+ru.omstu.pin252t_sedikova.androidApp-packageDebugResources-3 /Users/oleg/Downloads/KotlinProject/androidApp/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+ru.omstu.pin252t_sedikova.androidApp-debug-4 /Users/oleg/Downloads/KotlinProject/androidApp/build/intermediates/merged_res/debug/mergeDebugResources
+ru.omstu.pin252t_sedikova.androidApp-debug-5 /Users/oleg/Downloads/KotlinProject/androidApp/src/debug/res
+ru.omstu.pin252t_sedikova.androidApp-main-6 /Users/oleg/Downloads/KotlinProject/androidApp/src/main/res

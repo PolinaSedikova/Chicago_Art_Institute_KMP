@@ -1,0 +1,11 @@
+abi_version=2.4.0
+builtins_platform=WASM
+compiler_version=2.4.20
+ir_signature_versions=1,2
+jsOutputName=KotlinProject-shared
+language_features=+AllowAnyAsAnActualTypeForExpectInterface +JsAllowImplementingFunctionInterface +MultiPlatformProjects
+metadata_version=2.4.0
+serializedIrFileFingerprints=2cmww3pba4t44.1invwbwt2ozh0 roofmn2i7prp.3lb5ec2m1kw6u 3bsmoih5qmh1r.2dqw1wx0r2tnf wynzqds8rsp2.qwpepxw1rldk 3jxmu9m70hmd0.3aynqpqpi6x42 1yzlrjt483ggf.9utuh8wtjzt9 3tfwy405k0mhb.lwznarrzjmhp yghcgwzq9jup.ndysgb4u1mac 23xdx39eb5zrf.me5mvfie19m2
+serializedKlibFingerprint=58scbg3j3ppg.ibdqs63wl8q9
+unique_name=KotlinProject\:shared
+wasm_targets=wasm-js
